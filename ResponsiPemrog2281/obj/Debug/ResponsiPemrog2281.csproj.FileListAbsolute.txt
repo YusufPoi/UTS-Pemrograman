@@ -1,0 +1,13 @@
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\bin\Debug\ResponsiPemrog2281.exe.config
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\bin\Debug\ResponsiPemrog2281.exe
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\bin\Debug\ResponsiPemrog2281.pdb
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.exe
+c:\users\amikom\source\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.pdb
+D:\UTS S2\Responsi Pemrograman\repos\ResponsiPemrog2281\ResponsiPemrog2281\bin\Debug\ResponsiPemrog2281.exe.config
+D:\UTS S2\Responsi Pemrograman\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.exe
+D:\UTS S2\Responsi Pemrograman\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.pdb
+D:\UTS S2\Responsi Pemrograman\repos\ResponsiPemrog2281\ResponsiPemrog2281\bin\Debug\ResponsiPemrog2281.exe
+D:\UTS S2\Responsi Pemrograman\repos\ResponsiPemrog2281\ResponsiPemrog2281\bin\Debug\ResponsiPemrog2281.pdb
+D:\UTS S2\Responsi Pemrograman\repos\ResponsiPemrog2281\ResponsiPemrog2281\obj\Debug\ResponsiPemrog2281.csprojResolveAssemblyReference.cache
